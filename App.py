@@ -1,2 +1,5 @@
+def mensagemDeAviso() -> str:
+    return "Mensagem de Aviso!"
+    
 print("Hello, World!")
-print("Estou aprendendo sobre gerenciamento de versoes !")
+print(mensagemDeAviso())
